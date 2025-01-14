@@ -14617,5 +14617,22 @@
                 "baseUrl": "https://zinmanga.net"
             }
         ]
-    }
+    },
+    {
+        "name": "Tachiyomi: Mangafreak",
+        "pkg": "eu.kanade.tachiyomi.extension.en.mangafreak",
+        "apk": "tachiyomi-en.mangafreak-v1.4.10.apk",
+        "lang": "en",
+        "code": 10,
+        "version": "1.4.10",
+        "nsfw": 0,
+        "sources": [
+            {
+                "name": "Mangafreak",
+                "lang": "en",
+                "id": "1201694572804778862",
+                "baseUrl": "https://ww1.mangafreak.me"
+            }
+        ]
+    
 ]
